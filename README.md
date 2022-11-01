@@ -2,10 +2,10 @@
 Skill / Job Recommender Application
 
 
-TEAM LEADER   :  S.YUVARAJ
-TEAM MEMBER 1 :  K.RAMKUMAR
-TEAM MEMBER 2 :  VISHUNUPRIYA
-TEAM MEMBER 3 :  THENMOZHI
+           TEAM LEADER   :  S.YUVARAJ 
+           TEAM MEMBER 1 :  K.RAMKUMAR 
+           TEAM MEMBER 2 :  VISHUNUPRIYA 
+           TEAM MEMBER 3 :  THENMOZHI
 
 
 
